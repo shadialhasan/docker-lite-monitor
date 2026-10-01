@@ -3,11 +3,11 @@
 > **Topics:** `docker` `container-monitoring` `docker-api` `devops` `dashboard` `lightweight-monitoring` `single-file`
 
 
-[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/docker-lite-monitor/releases/tag/v1.0.0)
-[![CI/CD Pipeline](https://github.com/MobileConduit/docker-lite-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/docker-lite-monitor/actions)
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/shadialhasan/docker-lite-monitor/releases/tag/v1.0.0)
+[![CI/CD Pipeline](https://github.com/shadialhasan/docker-lite-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/shadialhasan/docker-lite-monitor/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
-[![Zero Runtime Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/MobileConduit)
+[![Zero Runtime Dependency](https://img.shields.io/badge/Dependencies-Zero-brightgreen.svg)](https://github.com/shadialhasan)
 
 A self-contained, high-performance Docker supervisor dashboard that queries container states directly via the local Docker daemon CLI and provides an ultra-fast HTML view, automated health check endpoint, and JSON API without bulky third-party agents or heavy runtime stacks.
 
@@ -72,7 +72,7 @@ sequenceDiagram
 
 ```bash
 # Clone the repository
-git clone https://github.com/MobileConduit/docker-lite-monitor.git
+git clone https://github.com/shadialhasan/docker-lite-monitor.git
 cd docker-lite-monitor
 
 # Run with defaults (Port 9090)
@@ -140,7 +140,7 @@ pytest --verbose tests/
 ## ⚙️ Installation & Setup
 
 ```bash
-git clone https://github.com/MobileConduit/docker-lite-monitor.git
+git clone https://github.com/shadialhasan/docker-lite-monitor.git
 cd docker-lite-monitor
 pip install -r requirements.txt
 ```
@@ -152,7 +152,7 @@ pip install -r requirements.txt
 - **Email:** [mhd.shadi.alhasan@gmail.com](mailto:mhd.shadi.alhasan@gmail.com)  
 - **Phone / WhatsApp:** [+963934005922](tel:+963934005922)  
 - **Location:** Damascus, Syria  
-- **GitHub:** [MobileConduit](https://github.com/MobileConduit)  
+- **GitHub:** [shadialhasan](https://github.com/shadialhasan)  
 
 ---
 
