@@ -1,5 +1,6 @@
 # 🐳 docker-lite-monitor
 
+[![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/docker-lite-monitor/releases/tag/v1.0.0)
 [![CI/CD Pipeline](https://github.com/MobileConduit/docker-lite-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/docker-lite-monitor/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python: 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://python.org)
@@ -130,6 +131,16 @@ pytest --verbose tests/
 ```
 
 ---
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+git clone https://github.com/MobileConduit/docker-lite-monitor.git
+cd docker-lite-monitor
+pip install -r requirements.txt
+```
 
 ## 👤 Author & Maintainer
 
