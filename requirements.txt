@@ -1,1 +1,5 @@
-# Zero dependencies - standard library only
+# Production: Zero external dependencies (Python Standard Library only)
+
+# Development & Testing:
+pytest>=8.0.0
+pytest-cov>=4.1.0
