@@ -1,5 +1,8 @@
 # 🐳 docker-lite-monitor
 
+> **Topics:** `docker` `container-monitoring` `docker-api` `devops` `dashboard` `lightweight-monitoring` `single-file`
+
+
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue.svg)](https://github.com/MobileConduit/docker-lite-monitor/releases/tag/v1.0.0)
 [![CI/CD Pipeline](https://github.com/MobileConduit/docker-lite-monitor/actions/workflows/ci.yml/badge.svg)](https://github.com/MobileConduit/docker-lite-monitor/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)

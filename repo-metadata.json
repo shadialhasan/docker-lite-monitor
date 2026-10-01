@@ -1,0 +1,12 @@
+{
+  "description": "Lightweight single-file Docker container supervisor and web dashboard reading directly from Docker daemon",
+  "topics": [
+    "docker",
+    "container-monitoring",
+    "docker-api",
+    "devops",
+    "dashboard",
+    "lightweight-monitoring",
+    "single-file"
+  ]
+}
